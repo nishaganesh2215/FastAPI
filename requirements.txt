@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+scikit-learn
+pydantic
+fastapi
+-e. ##automatically trigger the setup file when the requirements.txt is called
+
+## pip install -r requirements.txt

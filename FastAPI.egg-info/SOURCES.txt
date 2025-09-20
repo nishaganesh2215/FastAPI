@@ -1,0 +1,6 @@
+README.md
+setup.py
+FastAPI.egg-info/PKG-INFO
+FastAPI.egg-info/SOURCES.txt
+FastAPI.egg-info/dependency_links.txt
+FastAPI.egg-info/top_level.txt
